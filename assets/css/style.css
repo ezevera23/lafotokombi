@@ -379,7 +379,7 @@ a:focus{
     
 }
 .navbar-default .navbar-nav>.active>a:after{
-	content:"\2192";
+	content:"\27b5";
 	display:inline-block;
 	font-style:normal;
 	font-weight:normal;
